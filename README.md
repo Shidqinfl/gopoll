@@ -1,7 +1,7 @@
 ### GOPOLL ###
 
 ## Instruction ##
-    - install go on your device
+    - install go https://go.dev/doc/install on your device
     - open gopoll directory
     - go build . 
     - ./gopoll.exe in windows or ./gopoll in linux
